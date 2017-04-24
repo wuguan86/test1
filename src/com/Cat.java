@@ -9,7 +9,7 @@ public class Cat {
 	System.out.println("you  are cat");
 	System.out.println("ss");
 	FileOutputStream  fos=new  FileOutputStream("xx.txt");
-	
+	System.out.println("you  are cat");
 	
 	fos.write("97".getBytes());
 	fos.close();
